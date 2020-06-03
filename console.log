@@ -1,0 +1,43 @@
+//-------------------------- 6/3/2020 -- 17:13:19 -----
+Console trace is off.
+Adding path expando of 'AppCore' as '/Users/prashasthamudannayake/Desktop/T2D/modules/AppCore/1'.
+using display 0x7bd7eff9
+Activating the OpenGL display device...
+ OpenGLDevice activating...
+OpenGL driver information:
+  Vendor: ATI Technologies Inc.
+  Renderer: AMD Radeon Pro 555X OpenGL Engine
+  Version: 2.1 ATI-3.5.5
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 8)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16.000000)
+  Vertical Sync
+  ATI_FSAA
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  EXT_compiled_vertex_array
+  NV_vertex_array_range
+  3DFX_texture_compression_FXT1
+
+ set screen mode 1024 x 768 x 32, windowed, force it, dont repaint
+Max Texture Size reported as: 16384
+ set screen mode 1024 x 768 x 32, windowed, dont force it, repaint
+Killing the texture manager...
+Resurrecting the texture manager...
+OpenAL Driver Init
+OpenAL Driver Init Success
+Adding path expando of 'ToyAssets' as '/Users/prashasthamudannayake/Desktop/T2D/modules/ToyAssets/1'.
+Adding path expando of 'myModule' as '/Users/prashasthamudannayake/Desktop/T2D/modules/myModule'.
+Removing path expando of 'AppCore' as '/Users/prashasthamudannayake/Desktop/T2D/modules/AppCore/1'.
+Removing path expando of 'myModule' as '/Users/prashasthamudannayake/Desktop/T2D/modules/myModule'.
+Removing path expando of 'ToyAssets' as '/Users/prashasthamudannayake/Desktop/T2D/modules/ToyAssets/1'.
+Shutting down the OpenGL display device...
+Killing the texture manager...
